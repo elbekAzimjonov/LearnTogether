@@ -1,6 +1,6 @@
 # Learn Together App: Compose Article Screen
 
-![Learn Together UI](https://github.com/elbekAzimjonov/LearnTogether/blob/master/ui.png)
+<img src="https://github.com/elbekAzimjonov/LearnTogether/blob/master/ui.png" alt="Learn Together UI" width="400"/>
 
 This repository contains the implementation of the "Learn Together" app's article screen, built as part of a Google Android Codelab exercise. The app showcases a list of articles about various Jetpack libraries, allowing users to select topics and learn about the latest developments.
 
